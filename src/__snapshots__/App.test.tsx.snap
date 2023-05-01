@@ -1,0 +1,844 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<div
+  className="ant-table-wrapper css-dev-only-do-not-override-yp8pcc"
+>
+  <div
+    className="ant-spin-nested-loading css-dev-only-do-not-override-yp8pcc"
+  >
+    <div
+      className="ant-spin-container"
+    >
+      <div
+        className="ant-table"
+      >
+        <div
+          className="ant-table-container"
+        >
+          <div
+            className="ant-table-content"
+            onScroll={[Function]}
+            style={Object {}}
+          >
+            <table
+              style={
+                Object {
+                  "tableLayout": "auto",
+                }
+              }
+            >
+              <colgroup>
+                <col
+                  className="ant-table-expand-icon-col"
+                  style={
+                    Object {
+                      "width": undefined,
+                    }
+                  }
+                />
+              </colgroup>
+              <thead
+                className="ant-table-thead"
+              >
+                <tr>
+                  <td
+                    className="ant-table-cell ant-table-row-expand-icon-cell"
+                    colSpan={null}
+                    onMouseEnter={[Function]}
+                    onMouseLeave={[Function]}
+                    rowSpan={null}
+                    scope={null}
+                    style={Object {}}
+                  />
+                  <th
+                    className="ant-table-cell"
+                    colSpan={null}
+                    onMouseEnter={[Function]}
+                    onMouseLeave={[Function]}
+                    rowSpan={null}
+                    scope="col"
+                    style={Object {}}
+                  >
+                    Name
+                  </th>
+                  <th
+                    className="ant-table-cell"
+                    colSpan={null}
+                    onMouseEnter={[Function]}
+                    onMouseLeave={[Function]}
+                    rowSpan={null}
+                    scope="col"
+                    style={Object {}}
+                  >
+                    Played
+                  </th>
+                  <th
+                    className="ant-table-cell"
+                    colSpan={null}
+                    onMouseEnter={[Function]}
+                    onMouseLeave={[Function]}
+                    rowSpan={null}
+                    scope="col"
+                    style={Object {}}
+                  >
+                    Won
+                  </th>
+                  <th
+                    className="ant-table-cell"
+                    colSpan={null}
+                    onMouseEnter={[Function]}
+                    onMouseLeave={[Function]}
+                    rowSpan={null}
+                    scope="col"
+                    style={Object {}}
+                  >
+                    Drawn
+                  </th>
+                  <th
+                    className="ant-table-cell"
+                    colSpan={null}
+                    onMouseEnter={[Function]}
+                    onMouseLeave={[Function]}
+                    rowSpan={null}
+                    scope="col"
+                    style={Object {}}
+                  >
+                    Lost
+                  </th>
+                  <th
+                    className="ant-table-cell"
+                    colSpan={null}
+                    onMouseEnter={[Function]}
+                    onMouseLeave={[Function]}
+                    rowSpan={null}
+                    scope="col"
+                    style={Object {}}
+                  >
+                    GD
+                  </th>
+                  <th
+                    className="ant-table-cell"
+                    colSpan={null}
+                    onMouseEnter={[Function]}
+                    onMouseLeave={[Function]}
+                    rowSpan={null}
+                    scope="col"
+                    style={Object {}}
+                  >
+                    Points
+                  </th>
+                </tr>
+              </thead>
+              <tbody
+                className="ant-table-tbody"
+              >
+                <tr
+                  className="ant-table-row ant-table-row-level-0"
+                  data-row-key="Leicester City"
+                  onClick={[Function]}
+                  style={Object {}}
+                >
+                  <td
+                    className="ant-table-cell ant-table-row-expand-icon-cell"
+                    colSpan={null}
+                    onMouseEnter={[Function]}
+                    onMouseLeave={[Function]}
+                    rowSpan={null}
+                    style={Object {}}
+                  >
+                    <span
+                      onClick={[Function]}
+                    />
+                  </td>
+                  <td
+                    className="ant-table-cell"
+                    colSpan={null}
+                    onMouseEnter={[Function]}
+                    onMouseLeave={[Function]}
+                    rowSpan={null}
+                    style={Object {}}
+                  >
+                    <button
+                      className="ant-btn css-dev-only-do-not-override-yp8pcc ant-btn-link"
+                      disabled={false}
+                      onClick={[Function]}
+                      type="button"
+                    >
+                      <span>
+                        Leicester City
+                      </span>
+                    </button>
+                  </td>
+                  <td
+                    className="ant-table-cell"
+                    colSpan={null}
+                    onMouseEnter={[Function]}
+                    onMouseLeave={[Function]}
+                    rowSpan={null}
+                    style={Object {}}
+                  >
+                    4
+                  </td>
+                  <td
+                    className="ant-table-cell"
+                    colSpan={null}
+                    onMouseEnter={[Function]}
+                    onMouseLeave={[Function]}
+                    rowSpan={null}
+                    style={Object {}}
+                  >
+                    3
+                  </td>
+                  <td
+                    className="ant-table-cell"
+                    colSpan={null}
+                    onMouseEnter={[Function]}
+                    onMouseLeave={[Function]}
+                    rowSpan={null}
+                    style={Object {}}
+                  >
+                    1
+                  </td>
+                  <td
+                    className="ant-table-cell"
+                    colSpan={null}
+                    onMouseEnter={[Function]}
+                    onMouseLeave={[Function]}
+                    rowSpan={null}
+                    style={Object {}}
+                  >
+                    0
+                  </td>
+                  <td
+                    className="ant-table-cell"
+                    colSpan={null}
+                    onMouseEnter={[Function]}
+                    onMouseLeave={[Function]}
+                    rowSpan={null}
+                    style={Object {}}
+                  >
+                    5
+                  </td>
+                  <td
+                    className="ant-table-cell"
+                    colSpan={null}
+                    onMouseEnter={[Function]}
+                    onMouseLeave={[Function]}
+                    rowSpan={null}
+                    style={Object {}}
+                  >
+                    <b>
+                      10
+                    </b>
+                  </td>
+                </tr>
+                <tr
+                  className="ant-table-row ant-table-row-level-0"
+                  data-row-key="Liverpool"
+                  onClick={[Function]}
+                  style={Object {}}
+                >
+                  <td
+                    className="ant-table-cell ant-table-row-expand-icon-cell"
+                    colSpan={null}
+                    onMouseEnter={[Function]}
+                    onMouseLeave={[Function]}
+                    rowSpan={null}
+                    style={Object {}}
+                  >
+                    <span
+                      onClick={[Function]}
+                    />
+                  </td>
+                  <td
+                    className="ant-table-cell"
+                    colSpan={null}
+                    onMouseEnter={[Function]}
+                    onMouseLeave={[Function]}
+                    rowSpan={null}
+                    style={Object {}}
+                  >
+                    <button
+                      className="ant-btn css-dev-only-do-not-override-yp8pcc ant-btn-link"
+                      disabled={false}
+                      onClick={[Function]}
+                      type="button"
+                    >
+                      <span>
+                        Liverpool
+                      </span>
+                    </button>
+                  </td>
+                  <td
+                    className="ant-table-cell"
+                    colSpan={null}
+                    onMouseEnter={[Function]}
+                    onMouseLeave={[Function]}
+                    rowSpan={null}
+                    style={Object {}}
+                  >
+                    3
+                  </td>
+                  <td
+                    className="ant-table-cell"
+                    colSpan={null}
+                    onMouseEnter={[Function]}
+                    onMouseLeave={[Function]}
+                    rowSpan={null}
+                    style={Object {}}
+                  >
+                    3
+                  </td>
+                  <td
+                    className="ant-table-cell"
+                    colSpan={null}
+                    onMouseEnter={[Function]}
+                    onMouseLeave={[Function]}
+                    rowSpan={null}
+                    style={Object {}}
+                  >
+                    0
+                  </td>
+                  <td
+                    className="ant-table-cell"
+                    colSpan={null}
+                    onMouseEnter={[Function]}
+                    onMouseLeave={[Function]}
+                    rowSpan={null}
+                    style={Object {}}
+                  >
+                    0
+                  </td>
+                  <td
+                    className="ant-table-cell"
+                    colSpan={null}
+                    onMouseEnter={[Function]}
+                    onMouseLeave={[Function]}
+                    rowSpan={null}
+                    style={Object {}}
+                  >
+                    4
+                  </td>
+                  <td
+                    className="ant-table-cell"
+                    colSpan={null}
+                    onMouseEnter={[Function]}
+                    onMouseLeave={[Function]}
+                    rowSpan={null}
+                    style={Object {}}
+                  >
+                    <b>
+                      9
+                    </b>
+                  </td>
+                </tr>
+                <tr
+                  className="ant-table-row ant-table-row-level-0"
+                  data-row-key="Manchester United"
+                  onClick={[Function]}
+                  style={Object {}}
+                >
+                  <td
+                    className="ant-table-cell ant-table-row-expand-icon-cell"
+                    colSpan={null}
+                    onMouseEnter={[Function]}
+                    onMouseLeave={[Function]}
+                    rowSpan={null}
+                    style={Object {}}
+                  >
+                    <span
+                      onClick={[Function]}
+                    />
+                  </td>
+                  <td
+                    className="ant-table-cell"
+                    colSpan={null}
+                    onMouseEnter={[Function]}
+                    onMouseLeave={[Function]}
+                    rowSpan={null}
+                    style={Object {}}
+                  >
+                    <button
+                      className="ant-btn css-dev-only-do-not-override-yp8pcc ant-btn-link"
+                      disabled={false}
+                      onClick={[Function]}
+                      type="button"
+                    >
+                      <span>
+                        Manchester United
+                      </span>
+                    </button>
+                  </td>
+                  <td
+                    className="ant-table-cell"
+                    colSpan={null}
+                    onMouseEnter={[Function]}
+                    onMouseLeave={[Function]}
+                    rowSpan={null}
+                    style={Object {}}
+                  >
+                    5
+                  </td>
+                  <td
+                    className="ant-table-cell"
+                    colSpan={null}
+                    onMouseEnter={[Function]}
+                    onMouseLeave={[Function]}
+                    rowSpan={null}
+                    style={Object {}}
+                  >
+                    1
+                  </td>
+                  <td
+                    className="ant-table-cell"
+                    colSpan={null}
+                    onMouseEnter={[Function]}
+                    onMouseLeave={[Function]}
+                    rowSpan={null}
+                    style={Object {}}
+                  >
+                    2
+                  </td>
+                  <td
+                    className="ant-table-cell"
+                    colSpan={null}
+                    onMouseEnter={[Function]}
+                    onMouseLeave={[Function]}
+                    rowSpan={null}
+                    style={Object {}}
+                  >
+                    2
+                  </td>
+                  <td
+                    className="ant-table-cell"
+                    colSpan={null}
+                    onMouseEnter={[Function]}
+                    onMouseLeave={[Function]}
+                    rowSpan={null}
+                    style={Object {}}
+                  >
+                    2
+                  </td>
+                  <td
+                    className="ant-table-cell"
+                    colSpan={null}
+                    onMouseEnter={[Function]}
+                    onMouseLeave={[Function]}
+                    rowSpan={null}
+                    style={Object {}}
+                  >
+                    <b>
+                      5
+                    </b>
+                  </td>
+                </tr>
+                <tr
+                  className="ant-table-row ant-table-row-level-0"
+                  data-row-key="Manchester City"
+                  onClick={[Function]}
+                  style={Object {}}
+                >
+                  <td
+                    className="ant-table-cell ant-table-row-expand-icon-cell"
+                    colSpan={null}
+                    onMouseEnter={[Function]}
+                    onMouseLeave={[Function]}
+                    rowSpan={null}
+                    style={Object {}}
+                  >
+                    <span
+                      onClick={[Function]}
+                    />
+                  </td>
+                  <td
+                    className="ant-table-cell"
+                    colSpan={null}
+                    onMouseEnter={[Function]}
+                    onMouseLeave={[Function]}
+                    rowSpan={null}
+                    style={Object {}}
+                  >
+                    <button
+                      className="ant-btn css-dev-only-do-not-override-yp8pcc ant-btn-link"
+                      disabled={false}
+                      onClick={[Function]}
+                      type="button"
+                    >
+                      <span>
+                        Manchester City
+                      </span>
+                    </button>
+                  </td>
+                  <td
+                    className="ant-table-cell"
+                    colSpan={null}
+                    onMouseEnter={[Function]}
+                    onMouseLeave={[Function]}
+                    rowSpan={null}
+                    style={Object {}}
+                  >
+                    4
+                  </td>
+                  <td
+                    className="ant-table-cell"
+                    colSpan={null}
+                    onMouseEnter={[Function]}
+                    onMouseLeave={[Function]}
+                    rowSpan={null}
+                    style={Object {}}
+                  >
+                    1
+                  </td>
+                  <td
+                    className="ant-table-cell"
+                    colSpan={null}
+                    onMouseEnter={[Function]}
+                    onMouseLeave={[Function]}
+                    rowSpan={null}
+                    style={Object {}}
+                  >
+                    1
+                  </td>
+                  <td
+                    className="ant-table-cell"
+                    colSpan={null}
+                    onMouseEnter={[Function]}
+                    onMouseLeave={[Function]}
+                    rowSpan={null}
+                    style={Object {}}
+                  >
+                    2
+                  </td>
+                  <td
+                    className="ant-table-cell"
+                    colSpan={null}
+                    onMouseEnter={[Function]}
+                    onMouseLeave={[Function]}
+                    rowSpan={null}
+                    style={Object {}}
+                  >
+                    -1
+                  </td>
+                  <td
+                    className="ant-table-cell"
+                    colSpan={null}
+                    onMouseEnter={[Function]}
+                    onMouseLeave={[Function]}
+                    rowSpan={null}
+                    style={Object {}}
+                  >
+                    <b>
+                      4
+                    </b>
+                  </td>
+                </tr>
+                <tr
+                  className="ant-table-row ant-table-row-level-0"
+                  data-row-key="Tottenham Hotspur"
+                  onClick={[Function]}
+                  style={Object {}}
+                >
+                  <td
+                    className="ant-table-cell ant-table-row-expand-icon-cell"
+                    colSpan={null}
+                    onMouseEnter={[Function]}
+                    onMouseLeave={[Function]}
+                    rowSpan={null}
+                    style={Object {}}
+                  >
+                    <span
+                      onClick={[Function]}
+                    />
+                  </td>
+                  <td
+                    className="ant-table-cell"
+                    colSpan={null}
+                    onMouseEnter={[Function]}
+                    onMouseLeave={[Function]}
+                    rowSpan={null}
+                    style={Object {}}
+                  >
+                    <button
+                      className="ant-btn css-dev-only-do-not-override-yp8pcc ant-btn-link"
+                      disabled={false}
+                      onClick={[Function]}
+                      type="button"
+                    >
+                      <span>
+                        Tottenham Hotspur
+                      </span>
+                    </button>
+                  </td>
+                  <td
+                    className="ant-table-cell"
+                    colSpan={null}
+                    onMouseEnter={[Function]}
+                    onMouseLeave={[Function]}
+                    rowSpan={null}
+                    style={Object {}}
+                  >
+                    3
+                  </td>
+                  <td
+                    className="ant-table-cell"
+                    colSpan={null}
+                    onMouseEnter={[Function]}
+                    onMouseLeave={[Function]}
+                    rowSpan={null}
+                    style={Object {}}
+                  >
+                    0
+                  </td>
+                  <td
+                    className="ant-table-cell"
+                    colSpan={null}
+                    onMouseEnter={[Function]}
+                    onMouseLeave={[Function]}
+                    rowSpan={null}
+                    style={Object {}}
+                  >
+                    3
+                  </td>
+                  <td
+                    className="ant-table-cell"
+                    colSpan={null}
+                    onMouseEnter={[Function]}
+                    onMouseLeave={[Function]}
+                    rowSpan={null}
+                    style={Object {}}
+                  >
+                    0
+                  </td>
+                  <td
+                    className="ant-table-cell"
+                    colSpan={null}
+                    onMouseEnter={[Function]}
+                    onMouseLeave={[Function]}
+                    rowSpan={null}
+                    style={Object {}}
+                  >
+                    0
+                  </td>
+                  <td
+                    className="ant-table-cell"
+                    colSpan={null}
+                    onMouseEnter={[Function]}
+                    onMouseLeave={[Function]}
+                    rowSpan={null}
+                    style={Object {}}
+                  >
+                    <b>
+                      3
+                    </b>
+                  </td>
+                </tr>
+                <tr
+                  className="ant-table-row ant-table-row-level-0"
+                  data-row-key="Chelsea"
+                  onClick={[Function]}
+                  style={Object {}}
+                >
+                  <td
+                    className="ant-table-cell ant-table-row-expand-icon-cell"
+                    colSpan={null}
+                    onMouseEnter={[Function]}
+                    onMouseLeave={[Function]}
+                    rowSpan={null}
+                    style={Object {}}
+                  >
+                    <span
+                      onClick={[Function]}
+                    />
+                  </td>
+                  <td
+                    className="ant-table-cell"
+                    colSpan={null}
+                    onMouseEnter={[Function]}
+                    onMouseLeave={[Function]}
+                    rowSpan={null}
+                    style={Object {}}
+                  >
+                    <button
+                      className="ant-btn css-dev-only-do-not-override-yp8pcc ant-btn-link"
+                      disabled={false}
+                      onClick={[Function]}
+                      type="button"
+                    >
+                      <span>
+                        Chelsea
+                      </span>
+                    </button>
+                  </td>
+                  <td
+                    className="ant-table-cell"
+                    colSpan={null}
+                    onMouseEnter={[Function]}
+                    onMouseLeave={[Function]}
+                    rowSpan={null}
+                    style={Object {}}
+                  >
+                    5
+                  </td>
+                  <td
+                    className="ant-table-cell"
+                    colSpan={null}
+                    onMouseEnter={[Function]}
+                    onMouseLeave={[Function]}
+                    rowSpan={null}
+                    style={Object {}}
+                  >
+                    0
+                  </td>
+                  <td
+                    className="ant-table-cell"
+                    colSpan={null}
+                    onMouseEnter={[Function]}
+                    onMouseLeave={[Function]}
+                    rowSpan={null}
+                    style={Object {}}
+                  >
+                    3
+                  </td>
+                  <td
+                    className="ant-table-cell"
+                    colSpan={null}
+                    onMouseEnter={[Function]}
+                    onMouseLeave={[Function]}
+                    rowSpan={null}
+                    style={Object {}}
+                  >
+                    2
+                  </td>
+                  <td
+                    className="ant-table-cell"
+                    colSpan={null}
+                    onMouseEnter={[Function]}
+                    onMouseLeave={[Function]}
+                    rowSpan={null}
+                    style={Object {}}
+                  >
+                    -5
+                  </td>
+                  <td
+                    className="ant-table-cell"
+                    colSpan={null}
+                    onMouseEnter={[Function]}
+                    onMouseLeave={[Function]}
+                    rowSpan={null}
+                    style={Object {}}
+                  >
+                    <b>
+                      3
+                    </b>
+                  </td>
+                </tr>
+                <tr
+                  className="ant-table-row ant-table-row-level-0"
+                  data-row-key="Arsenal"
+                  onClick={[Function]}
+                  style={Object {}}
+                >
+                  <td
+                    className="ant-table-cell ant-table-row-expand-icon-cell"
+                    colSpan={null}
+                    onMouseEnter={[Function]}
+                    onMouseLeave={[Function]}
+                    rowSpan={null}
+                    style={Object {}}
+                  >
+                    <span
+                      onClick={[Function]}
+                    />
+                  </td>
+                  <td
+                    className="ant-table-cell"
+                    colSpan={null}
+                    onMouseEnter={[Function]}
+                    onMouseLeave={[Function]}
+                    rowSpan={null}
+                    style={Object {}}
+                  >
+                    <button
+                      className="ant-btn css-dev-only-do-not-override-yp8pcc ant-btn-link"
+                      disabled={false}
+                      onClick={[Function]}
+                      type="button"
+                    >
+                      <span>
+                        Arsenal
+                      </span>
+                    </button>
+                  </td>
+                  <td
+                    className="ant-table-cell"
+                    colSpan={null}
+                    onMouseEnter={[Function]}
+                    onMouseLeave={[Function]}
+                    rowSpan={null}
+                    style={Object {}}
+                  >
+                    4
+                  </td>
+                  <td
+                    className="ant-table-cell"
+                    colSpan={null}
+                    onMouseEnter={[Function]}
+                    onMouseLeave={[Function]}
+                    rowSpan={null}
+                    style={Object {}}
+                  >
+                    0
+                  </td>
+                  <td
+                    className="ant-table-cell"
+                    colSpan={null}
+                    onMouseEnter={[Function]}
+                    onMouseLeave={[Function]}
+                    rowSpan={null}
+                    style={Object {}}
+                  >
+                    2
+                  </td>
+                  <td
+                    className="ant-table-cell"
+                    colSpan={null}
+                    onMouseEnter={[Function]}
+                    onMouseLeave={[Function]}
+                    rowSpan={null}
+                    style={Object {}}
+                  >
+                    2
+                  </td>
+                  <td
+                    className="ant-table-cell"
+                    colSpan={null}
+                    onMouseEnter={[Function]}
+                    onMouseLeave={[Function]}
+                    rowSpan={null}
+                    style={Object {}}
+                  >
+                    -5
+                  </td>
+                  <td
+                    className="ant-table-cell"
+                    colSpan={null}
+                    onMouseEnter={[Function]}
+                    onMouseLeave={[Function]}
+                    rowSpan={null}
+                    style={Object {}}
+                  >
+                    <b>
+                      2
+                    </b>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
